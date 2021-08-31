@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{3B5DC588-6A92-4D37-8C0C-311BA33840A2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping.Tests", "Shopping.Tests\Shopping.Tests.csproj", "{CE0B7EB7-B348-403C-9D9C-910F82888658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{8EB6226F-766F-4C26-BE27-BF48291C069C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{3B5DC588-6A92-4D37-8C0C-311BA33840A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B5DC588-6A92-4D37-8C0C-311BA33840A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B5DC588-6A92-4D37-8C0C-311BA33840A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0B7EB7-B348-403C-9D9C-910F82888658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0B7EB7-B348-403C-9D9C-910F82888658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0B7EB7-B348-403C-9D9C-910F82888658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0B7EB7-B348-403C-9D9C-910F82888658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB6226F-766F-4C26-BE27-BF48291C069C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB6226F-766F-4C26-BE27-BF48291C069C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB6226F-766F-4C26-BE27-BF48291C069C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB6226F-766F-4C26-BE27-BF48291C069C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
